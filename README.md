@@ -1,5 +1,5 @@
 # XLSX_to_CSV
-The XLSX_to_CSV script processes Excel (.xlsx) files within a specified directory, converting each to a comma-separated values (.csv) file. This script makes it easier to work with Excel data in various data processing and analysis tools that prefer or require .csv format.
+The script converts Excel (.xlsx) files to comma-separated values (.csv) format.
 
 ## Overview:
 The XLSX_to_CSV script processes .xlsx files within a specified directory, converting each to a .csv file. This script makes it easier to work with Excel data in various data processing and analysis tools that prefer or require .csv format.
